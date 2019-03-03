@@ -30,6 +30,7 @@
 - 博客：
     - 项目地址： [https://github.com/cyyzero/blog_on_rails](https://github.com/cyyzero/blog_on_rails)
     - 博客地址： [https://cyyzero.herokuapp.com](https://github.com/cyyzero/blog_on_rails)
+    
     采用ruby on rails开发，部署在heroku上。只支持用户注册登录、发表文章、评论这些基本功能。记录了大学学习期间的总结和感悟。
 
 # 校园经历
