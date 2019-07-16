@@ -6,7 +6,6 @@
  -  电话：15501055199
  - 技术博客：[https://cyyzero.herokuapp.com](https://cyyzero.herokuapp.com)
  - Github：[http://github.com/cyyzero](http://github.com/cyyzero)
- - 知乎：[https://www.zhihu.com/people/cyyzero/answers](https://www.zhihu.com/people/cyyzero/answers)
 
 # 技能清单
 
